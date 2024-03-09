@@ -1,2 +1,4 @@
 # NextJs-Tutorials
-This repository showcases my hands-on learning journey with Next.js. Explore code examples and experiments as I delve into the framework.
+## Next.js Practice Playground
+- This repository serves as a sandbox for my Next.js learning journey.
+- Here, you'll find code examples and experiments I've created while following online tutorials and practicing the framework.
